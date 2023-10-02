@@ -5,4 +5,4 @@ C'est la première fois que j'apprends la commande de ligne. J'ai rencontré un 
 3. Dans l'exercise, je n'ai pas trouvé une demander pour copier les fichiers ".txt" rapidement vers le dossier du mois. J'ai tapé mois par mois, je suis sûr qu'il existe une façon plus efficace. Et pour les photos, je ne peux pas catégoriser dont le nom de ficher ne comprend pas le lieux.
 4. Il me faut encore faire plus d'exercises pour être familier avec les commandes.
 
-#Journal de 28/09
+# Journal de 28/09
