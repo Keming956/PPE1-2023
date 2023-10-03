@@ -7,3 +7,10 @@ C'est la première fois que j'apprends la commande de ligne. J'ai rencontré un 
 4. Il me faut encore faire plus d'exercises pour être familier avec les commandes.
 
 ## Journal de 28/09
+Pour l'exercice de la 1re séance, je n'arrive pas à catégoriser les images par le lieu, parce que le nom des fichiers n'indique pas le lieu. **faut demander aux profs**
+
+Pour l'exercice du git, je ne pouvais pas cloner mon propre git parce que j'ai déjà un git appelé "PPE1-2023", même s'ils ne sont pas dans le même directory. Finalement j'ai utilisé VS Code pour cloner mon propre git sur mon ordinateur. 
+
+Mis à jour : j'ai trouvé la raison, je n'avais pas changé le chemin, donc je restais toujours dans le même directory.
+
+Mais il y a un problème avec la commande git commit
