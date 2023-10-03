@@ -1,5 +1,5 @@
 # Journal
-# Journal de 20/09
+## Journal de 20/09
 C'est la première fois que j'apprends la commande de ligne. J'ai rencontré un peu de problèmes et j'ai réglé quelques-uns :
 1. Au début, je ne trouve pas les chemins de mon fichier facilement car j'utilise icloud. Après des recherches en ligne, j'ai trouvé sur Github un plugin appelé "Openinterminal" qui me permets d'obtenir le chemin facilement. De plus, j'ai téléchargé aussi queleques d'autres plugins pour améliorer mon "terminal"
 2. C'est bien de demander à ChatGPT quand je rencontre de problèmes, elle est assez forte par rapport à mon niveau actuel.
