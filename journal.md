@@ -13,4 +13,7 @@ Pour l'exercice du git, je ne pouvais pas cloner mon propre git parce que j'ai d
 
 Mis à jour : j'ai trouvé la raison, je n'avais pas changé le chemin, donc je restais toujours dans le même directory.
 
-Mais il y a un problème avec la commande git commit
+Mais il y a un problème avec la commande git commit, je suis en train de le règler.
+ssadaskhdakj
+
+sdakjdhss
