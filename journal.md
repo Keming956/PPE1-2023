@@ -13,7 +13,5 @@ Pour l'exercice du git, je ne pouvais pas cloner mon propre git parce que j'ai d
 
 Mis à jour : j'ai trouvé la raison, je n'avais pas changé le chemin, donc je restais toujours dans le même directory.
 
-Mais il y a un problème avec la commande git commit, je suis en train de le règler.
-ssadaskhdakj
+Mais il y a un problème avec la commande git commit. Il semble qu'il faut que j'ajoute le jounal cloné du Guthub avec la commande "add file", sinon je ne peux pas "commit"
 
-sdakjdhsssdaasdas
