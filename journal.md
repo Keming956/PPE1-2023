@@ -18,3 +18,4 @@ Mais il y a un problème avec la commande git commit. Il semble qu'il faut que j
 dsajkdhaksj
 
 ## Séance 3
+ajd
