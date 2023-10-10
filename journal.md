@@ -18,4 +18,4 @@ Mais il y a un problème avec la commande git commit. Il semble qu'il faut que j
 dsajkdhaksj
 
 ## Séance 3
-ajd
+J'ai effectué plusieurs "resets" et ne les ont pas poussé, donc il existait pas mal de différences entre mon git local et celui en ligne. Finalement, grâce à la fonction "reset --hard", j'ai pu réussir à supprimer tous les changements.
