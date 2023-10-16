@@ -19,3 +19,6 @@ dsajkdhaksj
 
 ## Séance 3
 J'ai effectué plusieurs "resets" et ne les ont pas poussé, donc il existait pas mal de différences entre mon git local et celui en ligne. Finalement, grâce à la fonction "reset --hard", j'ai pu réussir à supprimer tous les changements.
+
+## Séance 4
+Cette semaine, de nombreuses commandes ont apparu (surtout les syntaxes après la commande, par exemple, sort -r, -nr, uniq -c etc.), ce qui rend difficile à comprendre et à retenir, et il faut prendre les temps et faire des exercices pour devenir à l'aise. Par conséquent, j'ai dû mal à faire les exercices. Mais heureusement j'ai pu me renseigner auprès des camarades. Mais je ne suis pas sûr que j'ai compris la partie de script “affectation" et "utilisation" vu que cela a vite passé.
