@@ -15,10 +15,19 @@ Mis à jour : j'ai trouvé la raison, je n'avais pas changé le chemin, donc je 
 
 Mais il y a un problème avec la commande git commit. Il semble qu'il faut que j'ajoute le jounal cloné du Guthub avec la commande "add file", sinon je ne peux pas "commit"
 
-dsajkdhaksj
-
 ## Séance 3
 J'ai effectué plusieurs "resets" et ne les ont pas poussé, donc il existait pas mal de différences entre mon git local et celui en ligne. Finalement, grâce à la fonction "reset --hard", j'ai pu réussir à supprimer tous les changements.
 
 ## Séance 4
 Cette semaine, de nombreuses commandes ont apparu (surtout les syntaxes après la commande, par exemple, sort -r, -nr, uniq -c etc.), ce qui rend difficile à comprendre et à retenir, et il faut prendre les temps et faire des exercices pour devenir à l'aise. Par conséquent, j'ai dû mal à faire les exercices. Mais heureusement j'ai pu me renseigner auprès des camarades. Mais je ne suis pas sûr que j'ai compris la partie de script “affectation" et "utilisation" vu que cela a vite passé.
+
+## Séance 5
+
+Tout d'abord, je voudrais déclarer mon groupe pour le projet. Je suis dans un groupe avec Baptise Gillet (Paris Nanterre) et Marie Delporte-Landat (Paris 3), et moi d'INALCO, ce qui n'a pas posé le problème inalcolique heureusement.
+
+Récemment, dans tous les cours de programmation, nous apprenons le « if » et « while », ce qui m'aide à réviser un peu car le logique se ressemble entre ces langages.
+
+Pendant les exercices, quelques fois, il faut bien ajouter l'espace, comme if [[ ]], d'autres fois, il ne le faut pas, comme l'affectation, ce qui est différent avec des autres langages. Je suis un peu perdu dans ce type de différence.
+
+
+
