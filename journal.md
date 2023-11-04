@@ -31,3 +31,12 @@ Pendant les exercices, quelques fois, il faut bien ajouter l'espace, comme if [[
 
 
 
+## Séance 6
+
+Cette semaine, avec notre groupe, on a décidé de choisir le mot "devoir" pour le projet.
+
+Concernant l'exercice, j'ai quelques remarques. 
+
+1. Il faut grep -E pour utiliser les expressions régulières après
+2. J'ai appris une nouvelle fonction "awk" grâce au Chatgpt, et aussi tr -d pour éviter des choses inattendues
+3. Je suppose que les erreurs pouvant être corrigés sont des codes 3XX, ce qui veut dire "redirection". Cependant, j'ai essayé la fonction curl -L, voici le résultat. Donc je crois que j'ai échoué de le corriger.![image-20231104232726705](/Users/keming/Library/Application Support/typora-user-images/image-20231104232726705.png)
