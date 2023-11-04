@@ -38,5 +38,23 @@ Cette semaine, avec notre groupe, on a décidé de choisir le mot "devoir" pour 
 Concernant l'exercice, j'ai quelques remarques. 
 
 1. Il faut grep -E pour utiliser les expressions régulières après
+
 2. J'ai appris une nouvelle fonction "awk" grâce au Chatgpt, et aussi tr -d pour éviter des choses inattendues
-3. Je suppose que les erreurs pouvant être corrigés sont des codes 3XX, ce qui veut dire "redirection". Cependant, j'ai essayé la fonction curl -L, voici le résultat. Donc je crois que j'ai échoué de le corriger.![image-20231104232726705](/Users/keming/Library/Application Support/typora-user-images/image-20231104232726705.png)
+
+3. Je suppose que les erreurs pouvant être corrigés sont des codes 3XX, ce qui veut dire "redirection". Cependant, j'ai essayé la fonction curl -L, mais le résultat devient :
+
+   1	200	UTF-8	https://fr.wikipedia.org/wiki/Robot
+
+   2	200	UTF-8	https://fr.wikipedia.org/wiki/Robot_de_cuisine
+
+   3	301
+
+   200	UTF-8	fr.wikipedia.org/wiki/Robot_d%27indexation
+
+   4	200	UTF-8	https://fr.wikipedia.org/wiki/Bot_informatique
+
+   5	404	UTF-8	https://fr.wikipedia.org/wiki/Robot_(Leonard_de_Vinci)
+
+   6	502		https://roboty.magistry.fr Donc je crois que j'ai échoué de le corriger.
+
+   
