@@ -55,6 +55,8 @@ Concernant l'exercice, j'ai quelques remarques.
 
    5	404	UTF-8	https://fr.wikipedia.org/wiki/Robot_(Leonard_de_Vinci)
 
-   6	502		https://roboty.magistry.fr Donc je crois que j'ai échoué de le corriger.
+   6	502		https://roboty.magistry.fr 
+
+   Donc je crois que j'ai échoué de le corriger.
 
    
