@@ -59,4 +59,30 @@ Concernant l'exercice, j'ai quelques remarques.
 
    Donc je crois que j'ai échoué de le corriger.
 
-   
+
+### Séance 7
+
+Au cours, j'ai appris une nouvelle fonction "Perl", ce qui est une version plus forte que "-E", pour macOS, il faut utiliser "ggrep".
+
+Pendant les exercices, j'ai quelques remarques.
+
+**Exo-1 :** \w pour macther tous les "words", y compris les lettres et les chiffres
+
+tr "1" "2" : on utilise 2 pour remplacer 1
+
+**Exo-2** :  number_of_words=${2:-25} : 2 veut dire que le 2e variable, en cas de manque d'arguments, ce sera 25
+
+grep -v '^$' : exclure des lignes vides ; -v veut dire "exclure", "^$" représente le début et la fin d'une ligne
+
+**Exo-3** : paste - - : créer des bigrammes  
+
+j'ai cherché la fontion "paste" : si on excute 
+
+echo -e "apple\nbanana\ncherry" | paste - -"
+
+le résultat sera 
+
+apple   banana
+banana  cherry
+
+**Exo-HTML** : heureusement, on a un cours de HTML/CSS à l'Inalco, cet exercice n'est pas trop difficle pour moi
