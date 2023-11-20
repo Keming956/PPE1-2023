@@ -87,7 +87,7 @@ banana  cherry
 
 **Exo-HTML** : heureusement, on a un cours de HTML/CSS à l'Inalco, cet exercice n'est pas trop difficle pour moi
 
-#### Séance 8
+### Séance 8
 
 J'ai complètement malcompris la consigne pour la partie HTML de la dernière séance. On était demandé d'écrire un scripte shell afin de générer le page HTML.
 
