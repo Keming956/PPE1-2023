@@ -86,3 +86,9 @@ apple   banana
 banana  cherry
 
 **Exo-HTML** : heureusement, on a un cours de HTML/CSS à l'Inalco, cet exercice n'est pas trop difficle pour moi
+
+#### Séance 8
+
+J'ai complètement malcompris la consigne pour la partie HTML de la dernière séance. On était demandé d'écrire un scripte shell afin de générer le page HTML.
+
+Cette semaine, on a appris de créer notre page HTML à partir de notre dépôt, grâce au fichier `index.html`. Et puis, pour affiner le page, on peut utiliser des librairies. Heureusement, on a un cours de HTML/CSS, où j'ai connu le Bootstrap, donc je l'ai utilisé au lieu de Bulma.
