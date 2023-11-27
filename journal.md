@@ -92,3 +92,7 @@ banana  cherry
 J'ai complètement malcompris la consigne pour la partie HTML de la dernière séance. On était demandé d'écrire un scripte shell afin de générer le page HTML.
 
 Cette semaine, on a appris de créer notre page HTML à partir de notre dépôt, grâce au fichier `index.html`. Et puis, pour affiner le page, on peut utiliser des librairies. Heureusement, on a un cours de HTML/CSS, où j'ai connu le Bootstrap, donc je l'ai utilisé au lieu de Bulma.
+
+### Séance 9
+
+J'ai rencontré de nouveaux problèmes pour ce projet du groupe. Surtout concernant le chinois, j'ai trouvé 50 URLs. Mais Il n'y a qu'un seul qui marche avec le script. Cependant, quand je tape `curl [URL]` dans le terminal, ça peut marcher. Pareil pour `curl -I` quand je récupère l'encodage, avec un seul lien, ça ne pose pas de problème dans le terminal. Mais une fois, avec le script, ça ne donne rien. Il y a seulement `lynx`, j'ai fait des recherches, et trouve cette option `lynx -dump -assume_charset=utf-8 -display_charset=utf-8` pour que ça fonctionne correctement pour le chinois.
